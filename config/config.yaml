@@ -1,0 +1,13 @@
+storage:
+  user: "postgres"
+  password: "123"
+  host: "postgres"
+  port: "5432"
+  db_name: "coins"
+  ssl_mode: "disable"
+price_updates: 10s
+api_key: "XXXXXXXX"
+max_concurrent: 5
+vs_currency: "usd"
+rest:
+  address: ":8080"
