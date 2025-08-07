@@ -83,7 +83,7 @@ rest:
 
 - `MIGRATIONS_DIR` - путь к папке с миграциями (по умолчанию `/app/migrations`)
 
-#### ## API Endpoints
+### API Endpoints
 
 `POST /currency/add` - Добавление криптовалюты в список наблюдения
 ```json
